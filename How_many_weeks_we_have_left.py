@@ -7,7 +7,7 @@ age = input("What is your current age? ")
 # 🚨 Don't change the code above 👆
 
 #Write your code below this line 👇
-years = (21-int(age))
+years = (80-int(age))
 months = years*12
 weeks= years*52
 days = years*365
